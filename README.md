@@ -22,11 +22,11 @@ Welcome to the AI Assistant, a powerful tool that leverages cutting-edge AI tech
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/Aishee06/AI_Assistant.git
+   git clone https://github.com/Aishee06/Gen-AI_Assistant.git
 
 ### Navigate to the project directory:
 ```bash
-cd AI_Assistant
+cd Gen-AI_Assistant
 ```
 
 ### Install the required dependencies:
