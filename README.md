@@ -25,21 +25,25 @@ Welcome to the AI Assistant, a powerful tool that leverages cutting-edge AI tech
    git clone https://github.com/Aishee06/ai-assistant.git
 
 ### Navigate to the project directory:
- ```bash
+```bash
 cd ai-assistant
+```
 
 ### Install the required dependencies:
  ```bash
 pip install -r requirements.txt
+```
 
 ### Set up environment variables by creating a .env file in the project directory:
-plaintext
+```plaintext
 api_key=YOUR_GOOGLE_API_KEY
 OCTOAI_TOKEN=YOUR_OCTOAI_API_KEY
+```
 
 ### Running the Application:
 Start the Streamlit application by running:
 
  ```bash
 streamlit run app.py
+```
 The app will be accessible in your web browser at http://localhost:8501.
