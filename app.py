@@ -7,6 +7,7 @@ import google.generativeai as genai
 from octoai.client import OctoAI
 from octoai.util import to_file
 
+
 # Load environment variables
 load_dotenv()
 
